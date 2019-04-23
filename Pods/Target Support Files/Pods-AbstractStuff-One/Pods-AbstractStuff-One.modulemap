@@ -1,0 +1,6 @@
+framework module Pods_AbstractStuff_One {
+  umbrella header "Pods-AbstractStuff-One-umbrella.h"
+
+  export *
+  module * { export * }
+}
