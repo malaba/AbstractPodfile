@@ -8,7 +8,7 @@ abstract_target 'AbstractStuff' do
   pod 'Result', :configurations => ['Debug']
   
   target 'One' do
-  	pod 'Async', :configurations => ['Release']
+  	pod 'Async', :configurations => ['Debug']
   end
 
   target 'Two' do
